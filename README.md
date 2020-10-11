@@ -10,7 +10,7 @@ There's minimum functionality that your submission must include to be considered
 
 ### Submission format
 
-A link to your git repo online, or an entire local repo zipped and sent to me. If you take the ZIP route, be sure to include the hidden .git folder. If you need to rename it to (e.g.) _git so it's not hidden, that's ok.
+A link to your git repo online, or an entire local repo zipped and sent to me. If you take the ZIP route, be sure to include the hidden .git folder. If you need to rename it to (e.g.) `_git` so it's not hidden, that's ok.
 
 Please make commits with good commit messages along the way, especially if you go beyond the minimum functionality. I'd like to see your work process.
 
